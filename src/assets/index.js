@@ -25,6 +25,7 @@ import tcl from "./company/tcl.jpeg";
 import pfs from "./company/pfs.jpeg";
 import xpress from "./company/xpress.svg";
 import marval from "./company/marval.svg";
+import seedfi from "./company/seedfi-green.svg"
 
 import payxpress from "./payxpress.png";
 import xpresspay from "./xpresspay.png";
@@ -64,5 +65,6 @@ export {
   paymentpage,
   advreact,
   da,
-  udemy
+  udemy,
+  seedfi
 };

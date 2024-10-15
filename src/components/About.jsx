@@ -47,15 +47,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As a frontend engineer, I have experience in developing and maintaining
-        user interfaces for various web applications. I am proficient in HTML,
-        CSS, JavaScript, and various frontend frameworks such as React. My
-        expertise in responsive design ensures that the websites and
-        applications I build are accessible and optimized for all devices. I
-        have experience collaborating with designers, back-end developers, and
-        project managers to create seamless user experiences. Additionally, I am
-        constantly learning and staying up to date with the latest frontend
-        technologies and best practices.
+        A results-driven Backend Developer with a strong expertise in building
+        and maintaining robust server-side logic and APIs. I bring over 4 years
+        of experience in leveraging Node.js, TypeScript, and MySQL to develop
+        scalable, high-performance web and mobile applications. I am passionate
+        about optimizing backend systems for speed, security, and seamless
+        frontend integration, while delivering high-quality solutions to empower
+        users in managing their financial needs. I thrive in collaborative
+        environments, translating business requirements into efficient technical
+        solutions, and staying current with the latest trends in backend
+        development and fintech.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
