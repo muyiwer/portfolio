@@ -226,57 +226,44 @@ const projects = [
     source_code_link: "www.payxpress.com",
   },
   {
-    name: "XpressPay",
-    description: `It is a web platform that registers merchant businesses and helps
-      merchants initiate e-commerce, in-app, and point of sale for various payment
-      methods allowing their customers to securely transfer payments between XpressPay
-      payment portal and the processor or acquiring bank. I was responsible for designing
-      and implementing the user interface and collaborating with the backend developers
-      to ensure seamless integration with the back-end systems. The app was launched
-      successfully, resulting in a 25% increase in online transaction within the first month of
-      its release. Customers praised the app for its ease of use, intuitive interface, and fast
-      loading times.`,
+    name: "FundMe",
+    description: `FundMe is credit solution that make credit access to Africans more convenient & affordable. We have this solution will enable access to loans easier for the average African looking to migrate or study in other parts of the world. At FundMe, we are more than just a loan platform, we're your trusted partner in achieving your dreams. With a commitment to excellence and a passion for empowering individuals, we are providing tailor-made lending solution.`,
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "redux",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "typescript",
+        name: "nodejs",
         color: "pink-text-gradient",
       },
     ],
-    image: xpresspay,
-    source_code_link: "https://myxpresspay.com/",
+    image: seedfi,
+    source_code_link: "https://fundme.theseedfi.com/",
   },
   {
-    name: "Xpress Single Sign On",
-    description: `XpressPayments merchants and merchants’ customer uses this application to
-      securely authenticate with multiple XpressPayments web and mobile applications by
-      using just one set of credentials. I was responsible for designing and implementing
-      the user interface and collaborating with the backend developers to ensure seamless
-      integration with the back-end systems. Over 5000s users are authenticated on this
-      application.`,
+    name: "Seedfi",
+    description: `Seedfi is a lending solution that improves the borrowing experience for customers and manages risk for lenders by gathering and learning from different data touchpoints.`,
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "sass",
+        name: "typescript",
         color: "pink-text-gradient",
       },
     ],
-    image: paymentpage,
-    source_code_link: "https://myxpresspay.com:6003/GeqkCsrFET6HY",
+    image: seedfi,
+    source_code_link: "https://theseedfi.com/",
   },
 ];
 
