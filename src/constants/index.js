@@ -223,7 +223,7 @@ const projects = [
       },
     ],
     image: payxpress,
-    source_code_link: "www.payxpress.com",
+    source_code_link: "https://www.payxpress.com/",
   },
   {
     name: "FundMe",
